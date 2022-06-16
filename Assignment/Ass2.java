@@ -1,6 +1,6 @@
 package corejava;
 
-public class Ass2 {
+public class DoubleArrayAssignment {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
