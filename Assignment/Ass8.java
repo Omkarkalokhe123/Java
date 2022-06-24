@@ -1,6 +1,6 @@
 package corejava;
 
-public class Ass8 {
+public class TestTwoMD {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
