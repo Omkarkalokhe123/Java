@@ -1,6 +1,6 @@
 package corejava;
 
-public class Ass1 {
+public class StringArrayAssignment {
 	
 		
 		public static void main ( String [] args ) 
