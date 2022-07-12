@@ -8,6 +8,8 @@ final int mynum = 70; }
 Which of the following options will lead to compilation error?
 A. public final void myMethod();   B.    protected void myMethod();
   D.   private abstract void myMethod();
+
+
 Q 2: Imagine you are a software developer and write the following program:
  package com.kogent; 
 public class VarargsExample {
