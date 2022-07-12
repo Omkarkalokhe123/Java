@@ -131,6 +131,8 @@ class Question6 {
 
 
 A.	The program will compile successfully and execute displaying 1 and 202 as output.
+
+
 Q 7: Consider the following various array declarations:
 	 int [] ar1, arr2[]; 
 	 int[][] arr3; 
@@ -140,6 +142,7 @@ Q 7: Consider the following various array declarations:
 	 arr2 = arr4; 
 	 arr1 = arr2; 
 	 arr4 = arr1; 
+     
      The correct answer is A and B.
 
 
@@ -167,7 +170,8 @@ Q 8: Imagine you write the following lines of code in your program:
 	
 
 Q 9: Which among the following are valid declarations?
-		 int num1, num2, num3; num1 = num2= num3= 10; 
+		
+		int num1, num2, num3; num1 = num2= num3= 10; 
 		 int num1, num2, num3 =10; 
 		
 
@@ -184,12 +188,14 @@ Q 10:   Imagine you have declared the Ques20 class by using the following progra
  B. You can mark the name variable as private and provide the public method getName() which will return
 	 its value.
 
+
 Q 11: Which of the following options are true if you want to access the fields or methods of class B through the
  instance of class A, provided that the member has no access specifier?  
 
  B. The class A and B both must be within the same package.
 
 	
+
 
 Q 12: Which of the following statements are true based on the use of modifiers?
 	
